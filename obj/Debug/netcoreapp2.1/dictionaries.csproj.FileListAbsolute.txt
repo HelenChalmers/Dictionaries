@@ -1,0 +1,11 @@
+/Users/helen/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.1/dictionaries.deps.json
+/Users/helen/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.1/dictionaries.runtimeconfig.json
+/Users/helen/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.1/dictionaries.runtimeconfig.dev.json
+/Users/helen/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.1/dictionaries.dll
+/Users/helen/workspace/csharp/exercises/dictionaries/bin/Debug/netcoreapp2.1/dictionaries.pdb
+/Users/helen/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.1/dictionaries.csprojAssemblyReference.cache
+/Users/helen/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.1/dictionaries.csproj.CoreCompileInputs.cache
+/Users/helen/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.1/dictionaries.AssemblyInfoInputs.cache
+/Users/helen/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.1/dictionaries.AssemblyInfo.cs
+/Users/helen/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.1/dictionaries.dll
+/Users/helen/workspace/csharp/exercises/dictionaries/obj/Debug/netcoreapp2.1/dictionaries.pdb
